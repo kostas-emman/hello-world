@@ -5,4 +5,4 @@ Hey,
 
 I am Kostas from Greece. Automation Engineer currently attempting the transition to machine-learning!
 
-God bless us!!
+God bless us!!!
